@@ -1,1 +1,1 @@
-# Dr.-Diagnosis
+# Dr_Diagnosis
