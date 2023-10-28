@@ -6,7 +6,7 @@ Project completion: Fall 2022
 
 ## Summary
 
-**Dr. Diagnosis** is a Python application that **utilizes takes in patient health data and predicts whether a patient has heart disease or diabetes based on which diagnosis the user chooses**
+**Dr. Diagnosis** is a Python application that **takes in patient health data and predicts whether a patient has heart disease or diabetes based on which diagnosis the user chooses**
 
 ## Application Features
 
