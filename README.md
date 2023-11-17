@@ -18,7 +18,7 @@ For heart disease and diabetes diagnosis, the following classifiers are implemen
 - [x] Naive bayes
 - [x] Logistic regression
 
-Additionally, an end-user interface has been created to allow for users to input their own patient data (with some modifications involving uncommenting code)
+Additionally, an end-user interface has been created to allow for users to input their own patient data
 
 <!-- ## Video Demo
 
