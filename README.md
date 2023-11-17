@@ -33,8 +33,6 @@ GIF created with **GIPHY CAPTURE**
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
--->
-
 ## Notes
 
 I was able to convert training data from numerical to categorical form. Trained naive-bayes model to diagnose given patient lifestyle data with over 70 percent accuracy.
