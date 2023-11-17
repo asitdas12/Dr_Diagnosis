@@ -37,6 +37,7 @@ GIF created with **GIPHY CAPTURE**
 
 ## Notes
 
+I was able to convert training data from numerical to categorical form. Trained naive-bayes model to diagnose given patient lifestyle data with over 70 percent accuracy.
 
 <!-- ## License
 
